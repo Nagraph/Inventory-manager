@@ -1,0 +1,18 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "workbench.settings.useSplitJSON": true
+}
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }
+
+  {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    },
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "javascript.preferences.importModuleSpecifier": "relative"
+  }
+  
