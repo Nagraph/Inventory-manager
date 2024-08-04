@@ -6,7 +6,7 @@ import Navbar from './components/Navbar/Navbar'
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Inventory-manager",
+  title: "Trace",
   description: "Created by na-graph",
 };
 
